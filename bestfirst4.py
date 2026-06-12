@@ -1,4 +1,3 @@
-#Best First Search - Complete
 graph = {
     'A': {'B': 12, 'C': 11},
     'B': {'D': 9, 'E': 10},
