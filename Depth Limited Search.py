@@ -1,4 +1,4 @@
-#DLS Complete
+#Depth Limited Search
 graph = {
     '6': ['4', '8'],
     '4': ['3', '5'],
