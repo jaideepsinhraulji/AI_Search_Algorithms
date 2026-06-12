@@ -1,4 +1,4 @@
-#DLS & IDDFS Complete
+#Iterative Deepening Depth First Search
 graph = {
     '6': ['4', '8'],
     '4': ['3', '5'],
